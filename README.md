@@ -51,8 +51,10 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=skislyakow&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skislyakow&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://img.shields.io/github/stars/skislyakow?style=for-the-badge&label=Stars&color=58A6FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/followers/skislyakow?style=for-the-badge&label=Followers&color=58A6FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&color=58A6FF&labelColor=0D1117&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fskislyakow" />
+  <img src="https://img.shields.io/github/last-commit/skislyakow/skislyakow?style=for-the-badge&label=Updated&color=58A6FF&labelColor=0D1117" />
 </div>
 
 ---
