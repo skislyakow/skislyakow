@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Fullstack+Developer;Django+%7C+DRF+%7C+PostgreSQL+%7C+Docker;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Fullstack+Developer;Django+%7C+FastAPI+%7C+DRF+%7C+PostgreSQL+%7C+Docker;Bots+%7C+Automation+%7C+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -7,8 +7,8 @@
 ## About Me
 
 - 🔭 Currently working at **EFKO**
-- 🌱 Building with **Python, Django, DRF, FastAPI, PostgreSQL, Docker**
-- 🤖 Exploring **AI agents, automation, LLMs**
+- 🌱 Building with **Python, Django, FastAPI, PostgreSQL, Docker, SQLAlchemy**
+- 🤖 Bots, OCR, **Telegram automation**, CV (OpenCV/Tesseract), LLMs
 - 📍 Based in **Ostrogozhsk, Russia**
 - 🌐 [Portfolio](http://132.243.121.192/) · [Telegram](https://t.me/kislyakow) · [VK](https://vk.com/skislyakov84)
 
