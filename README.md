@@ -92,13 +92,7 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skislyakow&theme=github-dark&bg_color=0D1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
-## Trophy Case
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=skislyakow&theme=onedark&row=2&column=4&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## Contribution Snake
 
