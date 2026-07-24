@@ -105,6 +105,8 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. ℹ️ Labeled issue [#1368](https://github.com/coreybutler/nvm-windows/issues/1368) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+2. ❗ Opened issue [#1368](https://github.com/coreybutler/nvm-windows/issues/1368) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
 <!--END_SECTION:activity-->
 
 ---
