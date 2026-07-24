@@ -10,7 +10,7 @@
 - 🌱 Building with **Python, Django, FastAPI, PostgreSQL, Docker, SQLAlchemy**
 - 🤖 Bots, OCR, **Telegram automation**, CV (OpenCV/Tesseract), LLMs
 - 📍 Based in **Ostrogozhsk, Russia**
-- 🌐 [Portfolio](http://132.243.121.192/) · [Telegram](https://t.me/kislyakow) · [VK](https://vk.com/skislyakov84)
+- 🌐 [Portfolio](https://kislyakov.pro/) · [Telegram](https://t.me/kislyakow) · [VK](https://vk.com/skislyakov84)
 
 ---
 
@@ -93,6 +93,7 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skislyakow&theme=github-dark&bg_color=0D1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+---
 
 ## Contribution Snake
 
