@@ -10,6 +10,7 @@
 - 🌱 Building with **Python, Django, FastAPI, PostgreSQL, Docker, SQLAlchemy**
 - 🤖 Bots, OCR, **Telegram automation**, CV (OpenCV/Tesseract), LLMs
 - 📍 Based in **Ostrogozhsk, Russia**
+- 💼 **Open to work / collaboration**
 - 🌐 [Portfolio](https://kislyakov.pro/) · [Telegram](https://t.me/kislyakow) · [VK](https://vk.com/skislyakov84)
 
 ---
