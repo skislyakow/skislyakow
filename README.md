@@ -76,7 +76,6 @@
 | [ferma](https://github.com/skislyakow/ferma) | Telegram channel automation farm | Python, FastAPI, Telethon, SQLite |
 | [opencode-py](https://github.com/skislyakow/opencode-py) | Python SDK for Opencode AI agent | Python, SDK |
 | [devman-bot](https://github.com/skislyakow/devman-bot) | Telegram bot for Devman notifications | Python, Telegram API, Long Polling |
-| [online_library](https://github.com/skislyakow/online_library) | Static online library site | Python, Jinja2, Livereload |
 | [support-bot](https://github.com/skislyakow/support-bot) | Telegram & VK support bot on Google Dialogflow | Python, aiogram, vk_api, Dialogflow, systemd |
 
 ---
