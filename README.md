@@ -8,7 +8,7 @@
 
 - 🔭 Currently working at **EFKO**
 - 🌱 Building with **Python, Django, FastAPI, PostgreSQL, Docker, SQLAlchemy**
-- 🤖 Bots, OCR, **Telegram automation**, CV (OpenCV/Tesseract), LLMs
+- 🤖 Bots (Telegram/VK), OCR, **Dialogflow NLP**, CV (OpenCV/Tesseract), LLMs
 - 📍 Based in **Ostrogozhsk, Russia**
 - 💼 **Open to work / collaboration**
 - 🌐 [Portfolio](https://kislyakov.pro/) · [Telegram](https://t.me/kislyakow) · [VK](https://vk.com/skislyakov84) · ✉️ s.kislyakov84@gmail.com
@@ -43,9 +43,11 @@
 ![Alembic](https://img.shields.io/badge/Alembic-009688?style=flat-square&logo=alembic&logoColor=white)
 
 ### Bots & Automation
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![python-telegram-bot](https://img.shields.io/badge/PTB-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![VK API](https://img.shields.io/badge/VK_API-0077FF?style=flat-square&logo=vk&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=googlecloud&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract-49B36B?style=flat-square&logo=tesseract&logoColor=white)
 
@@ -75,6 +77,7 @@
 | [opencode-py](https://github.com/skislyakow/opencode-py) | Python SDK for Opencode AI agent | Python, SDK |
 | [devman-bot](https://github.com/skislyakow/devman-bot) | Telegram bot for Devman notifications | Python, Telegram API, Long Polling |
 | [online_library](https://github.com/skislyakow/online_library) | Static online library site | Python, Jinja2, Livereload |
+| [support-bot](https://github.com/skislyakow/support-bot) | Telegram & VK support bot on Google Dialogflow | Python, aiogram, vk_api, Dialogflow, systemd |
 
 ---
 
