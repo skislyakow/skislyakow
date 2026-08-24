@@ -7,14 +7,9 @@
 ## About Me
 
 - 🔭 Currently working at **EFKO**
-<<<<<<< HEAD
-- 🌱 Building with **Python · Django · FastAPI · PostgreSQL · Redis · Docker**
-- 🤖 Telegram & VK bots (aiogram, vkbottle), automation, 300k-question quiz bot, CV (OpenCV/Tesseract), LLMs
+- 🌱 Building with **Python · Django · FastAPI · PostgreSQL · Redis · Docker · SQLAlchemy**
+- 🤖 Telegram & VK bots (aiogram, vkbottle), **Dialogflow NLP**, automation, 300k-question quiz bot, CV (OpenCV/Tesseract), LLMs
 - 📦 Open-source author: Python SDKs & dev tooling (Pydantic, httpx)
-=======
-- 🌱 Building with **Python, Django, FastAPI, PostgreSQL, Docker, SQLAlchemy**
-- 🤖 Bots (Telegram/VK), OCR, **Dialogflow NLP**, CV (OpenCV/Tesseract), LLMs
->>>>>>> cff94e8f9046314b13b8635b8a0c257b8b1349db
 - 📍 Based in **Ostrogozhsk, Russia**
 - 💼 **Open to work / collaboration**
 - 🌐 [Portfolio](https://kislyakov.pro/) · [Telegram](https://t.me/kislyakow) · [VK](https://vk.com/skislyakov84) · ✉️ s.kislyakov84@gmail.com
@@ -60,7 +55,6 @@
 ![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=googlecloud&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract-49B36B?style=flat-square&logo=tesseract&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![vkbottle](https://img.shields.io/badge/vkbottle-0077FF?style=flat-square&logo=vk&logoColor=white)
 ![pymorphy3](https://img.shields.io/badge/pymorphy3-3776AB?style=flat-square&logo=python&logoColor=white)
 
