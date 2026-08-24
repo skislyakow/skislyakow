@@ -7,9 +7,14 @@
 ## About Me
 
 - 🔭 Currently working at **EFKO**
+<<<<<<< HEAD
 - 🌱 Building with **Python · Django · FastAPI · PostgreSQL · Redis · Docker**
 - 🤖 Telegram & VK bots (aiogram, vkbottle), automation, 300k-question quiz bot, CV (OpenCV/Tesseract), LLMs
 - 📦 Open-source author: Python SDKs & dev tooling (Pydantic, httpx)
+=======
+- 🌱 Building with **Python, Django, FastAPI, PostgreSQL, Docker, SQLAlchemy**
+- 🤖 Bots (Telegram/VK), OCR, **Dialogflow NLP**, CV (OpenCV/Tesseract), LLMs
+>>>>>>> cff94e8f9046314b13b8635b8a0c257b8b1349db
 - 📍 Based in **Ostrogozhsk, Russia**
 - 💼 **Open to work / collaboration**
 - 🌐 [Portfolio](https://kislyakov.pro/) · [Telegram](https://t.me/kislyakow) · [VK](https://vk.com/skislyakov84) · ✉️ s.kislyakov84@gmail.com
@@ -48,9 +53,11 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### Bots & Automation
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![python-telegram-bot](https://img.shields.io/badge/PTB-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![VK API](https://img.shields.io/badge/VK_API-0077FF?style=flat-square&logo=vk&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=googlecloud&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract-49B36B?style=flat-square&logo=tesseract&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
@@ -83,7 +90,7 @@
 | [dossier](https://github.com/skislyakow/dossier) | Personal portfolio site with AI assistant | Django, Gunicorn, Nginx, GitHub Actions |
 | [ferma](https://github.com/skislyakow/ferma) | Telegram & VK channel automation farm | Python, FastAPI, Telethon, SQLite |
 | [devman-bot](https://github.com/skislyakow/devman-bot) | Telegram bot for Devman notifications | Python, Telegram API, Long Polling |
-| [online_library](https://github.com/skislyakow/online_library) | Static online library site | Python, Jinja2, Livereload |
+| [support-bot](https://github.com/skislyakow/support-bot) | Telegram & VK support bot on Google Dialogflow | Python, aiogram, vk_api, Dialogflow, systemd |
 
 ---
 
@@ -128,8 +135,8 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1368](https://github.com/coreybutler/nvm-windows/issues/1368) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
-2. ❗ Opened issue [#1368](https://github.com/coreybutler/nvm-windows/issues/1368) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+1. 🗣 Commented on [#1368](https://github.com/coreybutler/nvm-windows/issues/1368#issuecomment-5142163371) in [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
+2. 🎉 Merged PR [#1](https://github.com/skislyakow/BeautyCity/pull/1) in [skislyakow/BeautyCity](https://github.com/skislyakow/BeautyCity)
 <!--END_SECTION:activity-->
 
 ---
