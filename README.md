@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Fullstack+Developer;Django+%7C+FastAPI+%7C+DRF+%7C+PostgreSQL+%7C+Docker;Bots+%7C+Automation+%7C+AI+Enthusiast;Telegram+%26+VK+Bots+%7C+Redis" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/skislyakow/skislyakow/main/assets/header-banner.svg" alt="Header Banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Fullstack+Developer;Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Docker;Telegram+%26+VK+Bots+%7C+aiogram+%7C+vkbottle;Automation+%7C+CV+%7C+LLMs" alt="Typing SVG" />
 </div>
 
 ---
@@ -111,6 +115,14 @@
   <img src="https://img.shields.io/github/last-commit/skislyakow/skislyakow?style=for-the-badge&label=Updated&color=58A6FF&labelColor=0D1117" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skislyakow&theme=github-dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skislyakow&layout=compact&theme=github_dark&langs_count=10" alt="Top Languages" />
+</p>
+
 ---
 
 ## Activity Graph
@@ -137,4 +149,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=skislyakow&color=58A6FF&style=flat-square&label=Profile+Views" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/skislyakow/skislyakow/main/assets/footer-banner.svg" alt="Footer Banner" />
 </div>
