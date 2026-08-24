@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Fullstack+Developer;Django+%7C+FastAPI+%7C+DRF+%7C+PostgreSQL+%7C+Docker;Bots+%7C+Automation+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Fullstack+Developer;Django+%7C+FastAPI+%7C+DRF+%7C+PostgreSQL+%7C+Docker;Bots+%7C+Automation+%7C+AI+Enthusiast;Telegram+%26+VK+Bots+%7C+Redis" alt="Typing SVG" />
 </div>
 
 ---
@@ -7,8 +7,9 @@
 ## About Me
 
 - 🔭 Currently working at **EFKO**
-- 🌱 Building with **Python, Django, FastAPI, PostgreSQL, Docker, SQLAlchemy**
-- 🤖 Bots, OCR, **Telegram automation**, CV (OpenCV/Tesseract), LLMs
+- 🌱 Building with **Python · Django · FastAPI · PostgreSQL · Redis · Docker**
+- 🤖 Telegram & VK bots (aiogram, vkbottle), automation, 300k-question quiz bot, CV (OpenCV/Tesseract), LLMs
+- 📦 Open-source author: Python SDKs & dev tooling (Pydantic, httpx)
 - 📍 Based in **Ostrogozhsk, Russia**
 - 💼 **Open to work / collaboration**
 - 🌐 [Portfolio](https://kislyakov.pro/) · [Telegram](https://t.me/kislyakow) · [VK](https://vk.com/skislyakov84) · ✉️ s.kislyakov84@gmail.com
@@ -29,6 +30,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Sanic](https://img.shields.io/badge/Sanic-FF6F00?style=flat-square&logo=sanic&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-005571?style=flat-square&logo=python&logoColor=white)
+![requests](https://img.shields.io/badge/requests-2CA5E0?style=flat-square&logo=python&logoColor=white)
 
 ### Frontend
 ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
@@ -41,6 +45,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-009688?style=flat-square&logo=alembic&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### Bots & Automation
 ![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
@@ -48,6 +53,9 @@
 ![VK API](https://img.shields.io/badge/VK_API-0077FF?style=flat-square&logo=vk&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract-49B36B?style=flat-square&logo=tesseract&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![vkbottle](https://img.shields.io/badge/vkbottle-0077FF?style=flat-square&logo=vk&logoColor=white)
+![pymorphy3](https://img.shields.io/badge/pymorphy3-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -70,11 +78,26 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [quiz-bot](https://github.com/skislyakow/quiz-bot) | Multi-platform quiz bot (Telegram & VK) on ~300k questions, Redis state, answer normalization via pymorphy3 | Python, aiogram, vkbottle, Redis, pymorphy3 |
+| [opencode-py](https://github.com/skislyakow/opencode-py) | Python SDK for the Opencode AI coding agent (typed, streaming, async) | Python, Pydantic, httpx, SDK |
 | [dossier](https://github.com/skislyakow/dossier) | Personal portfolio site with AI assistant | Django, Gunicorn, Nginx, GitHub Actions |
-| [ferma](https://github.com/skislyakow/ferma) | Telegram channel automation farm | Python, FastAPI, Telethon, SQLite |
-| [opencode-py](https://github.com/skislyakow/opencode-py) | Python SDK for Opencode AI agent | Python, SDK |
+| [ferma](https://github.com/skislyakow/ferma) | Telegram & VK channel automation farm | Python, FastAPI, Telethon, SQLite |
 | [devman-bot](https://github.com/skislyakow/devman-bot) | Telegram bot for Devman notifications | Python, Telegram API, Long Polling |
 | [online_library](https://github.com/skislyakow/online_library) | Static online library site | Python, Jinja2, Livereload |
+
+---
+
+## ⭐ Featured Project
+
+### 🧠 quiz-bot — multi-platform quiz bot
+> Quiz bot for Telegram & VK on a base of ~300k questions.
+
+- 🤖 **Two platforms, one logic** — Telegram (aiogram) + VK (vkbottle) as independent processes sharing common modules.
+- ⚡ **Fast startup** — ~302k-question cache with fingerprint-based auto-invalidation; O(1) random pick.
+- 🧠 **Smart answer matching** — pymorphy3 lemmatization, punctuation normalization, partial-match tolerance.
+- 🗄️ **Resilient state** — FSM in Redis with TTL; graceful degradation if Redis is down.
+
+🔗 [github.com/skislyakow/quiz-bot](https://github.com/skislyakow/quiz-bot)
 
 ---
 
