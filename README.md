@@ -129,8 +129,8 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/skislyakow/BakeCake/pull/4) in [skislyakow/BakeCake](https://github.com/skislyakow/BakeCake)
-2. 🎉 Merged PR [#3](https://github.com/skislyakow/BakeCake/pull/3) in [skislyakow/BakeCake](https://github.com/skislyakow/BakeCake)
+1. 🎉 Merged PR [#5](https://github.com/skislyakow/SelfStorage/pull/5) in [skislyakow/SelfStorage](https://github.com/skislyakow/SelfStorage)
+2. 🎉 Merged PR [#4](https://github.com/skislyakow/SelfStorage/pull/4) in [skislyakow/SelfStorage](https://github.com/skislyakow/SelfStorage)
 <!--END_SECTION:activity-->
 
 ---
