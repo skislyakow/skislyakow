@@ -129,8 +129,8 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/skislyakow/SelfStorage/pull/5) in [skislyakow/SelfStorage](https://github.com/skislyakow/SelfStorage)
-2. 🎉 Merged PR [#4](https://github.com/skislyakow/SelfStorage/pull/4) in [skislyakow/SelfStorage](https://github.com/skislyakow/SelfStorage)
+1. 💪 Opened PR [#9](https://github.com/skislyakow/SelfStorage/pull/9) in [skislyakow/SelfStorage](https://github.com/skislyakow/SelfStorage)
+2. 🎉 Merged PR [#8](https://github.com/skislyakow/SelfStorage/pull/8) in [skislyakow/SelfStorage](https://github.com/skislyakow/SelfStorage)
 <!--END_SECTION:activity-->
 
 ---
