@@ -102,6 +102,26 @@
 
 ---
 
+## 📜 Certifications
+
+<table>
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://stepik.org/cert/3370001">
+        <img src="assets/certificates/stepik-interactive-sql-trainer.png" width="360" alt="Stepik certificate — Интерактивный тренажер по SQL, с отличием" />
+      </a>
+    </td>
+    <td>
+      <b>Интерактивный тренажер по SQL</b> — <i>с отличием</i><br/>
+      <sub>Stepik · hands-on SQL practice: SELECT, JOINs, subqueries, aggregation</sub>
+      <br/><br/>
+      <a href="https://stepik.org/cert/3370001">Verify on Stepik</a> · <a href="https://stepik.org/course/63054">Course page</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
