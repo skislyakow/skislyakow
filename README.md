@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Fullstack+Developer;Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Docker;Telegram+%26+VK+Bots+%7C+aiogram+%7C+vkbottle;Automation+%7C+CV+%7C+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Fullstack+Developer;Django+%7C+DRF+%7C+FastAPI+%7C+PostgreSQL+%7C+React+%7C+Strapi;Telegram+%26+VK+Bots+%7C+aiogram+%7C+vkbottle;Automation+%7C+CV+%7C+LLMs+%7C+CI%2FCD" alt="Typing SVG" />
 </div>
 
 ---
@@ -7,8 +7,10 @@
 ## About Me
 
 - 🔭 Currently working at **EFKO**
-- 🌱 Building with **Python · Django · FastAPI · PostgreSQL · Redis · Docker · SQLAlchemy**
-- 🤖 Telegram & VK bots (aiogram, vkbottle), **Dialogflow NLP**, automation, 300k-question quiz bot, CV (OpenCV/Tesseract), LLMs
+- 🧱 Full-stack web apps: **Django · DRF · FastAPI · PostgreSQL · Redis · Docker · SQLAlchemy**
+- 💳 Real product flows: **YooKassa payments · QR access · SMS auth · PDF generation · headless CMS (Strapi)**
+- 🤖 Telegram & VK bots (aiogram, vkbottle, python-telegram-bot), **Dialogflow NLP**, automation, 300k-question quiz bot, CV (OpenCV/Tesseract), LLMs
+- 🧪 Engineering habits: **pytest, ruff, mypy, pre-commit, GitHub Actions CI**
 - 📦 Open-source author: Python SDKs & dev tooling (Pydantic, httpx)
 - 📍 Based in **Ostrogozhsk, Russia**
 - 💼 **Open to work / collaboration**
@@ -21,6 +23,7 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -33,8 +36,12 @@
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![httpx](https://img.shields.io/badge/httpx-005571?style=flat-square&logo=python&logoColor=white)
 ![requests](https://img.shields.io/badge/requests-2CA5E0?style=flat-square&logo=python&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
+![YooKassa](https://img.shields.io/badge/YooKassa-00A2FF?style=flat-square&logoColor=white)
 
 ### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Parcel](https://img.shields.io/badge/Parcel-F5BF4B?style=flat-square&logo=parcel&logoColor=black)
 ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -71,24 +78,40 @@
 ![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat-square&logo=python&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
 ![pre-commit](https://img.shields.io/badge/pre--commit-FAB040?style=flat-square&logo=precommit&logoColor=black)
 
 ---
 
-## Pinned Projects
+## Selected Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [quiz-bot](https://github.com/skislyakow/quiz-bot) | Multi-platform quiz bot (Telegram & VK) on ~300k questions, Redis state, answer normalization via pymorphy3 | Python, aiogram, vkbottle, Redis, pymorphy3 |
-| [opencode-py](https://github.com/skislyakow/opencode-py) | Python SDK for the Opencode AI coding agent (typed, streaming, async) | Python, Pydantic, httpx, SDK |
-| [dossier](https://github.com/skislyakow/dossier) | Personal portfolio site with AI assistant | Django, Gunicorn, Nginx, GitHub Actions |
-| [ferma](https://github.com/skislyakow/ferma) | Telegram & VK channel automation farm | Python, FastAPI, Telethon, SQLite |
-| [devman-bot](https://github.com/skislyakow/devman-bot) | Telegram bot for Devman notifications | Python, Telegram API, Long Polling |
-| [support-bot](https://github.com/skislyakow/support-bot) | Telegram & VK support bot on Google Dialogflow | Python, aiogram, vk_api, Dialogflow, systemd |
+| [SelfStorage](https://github.com/skislyakow/SelfStorage) | Storage-box rental: step-by-step checkout, YooKassa payments, QR door access, owner dashboard · [demo](https://selfstorage.kislyakov.pro) | Django, Bootstrap, SQLite, YooKassa, CI |
+| [dossier](https://github.com/skislyakow/dossier) | Portfolio site with auto-generated PDF résumé and CI/CD deploy · [live](https://kislyakov.pro) | Django, WeasyPrint, Nginx, GitHub Actions |
+| [BeautyCity](https://github.com/skislyakow/BeautyCity) | Beauty-salon booking: server-side slot calculation, SMS login, YooKassa, staff stats · [demo](https://beauty.kislyakov.pro) | Django 6, DRF, jQuery, YooKassa |
+| [star-burger](https://github.com/skislyakow/star-burger) | Food-delivery storefront: React cart, manager dashboard, geocoding · [demo](https://star-burger.kislyakov.pro) | Django, DRF, React, Parcel, PostgreSQL, CI |
+| [FishShop](https://github.com/skislyakow/FishShop) | Telegram seafood shop backed by a headless Strapi CMS, Redis FSM | python-telegram-bot, Strapi 5, Redis, uv |
+| [quiz-bot](https://github.com/skislyakow/quiz-bot) | Multi-platform quiz bot on ~300k questions, Redis state, pymorphy3 answer matching | aiogram, vkbottle, Redis, pymorphy3 |
+| [opencode-py](https://github.com/skislyakow/opencode-py) | Python SDK for the Opencode AI coding agent (typed, streaming, async) | Pydantic, httpx, SDK |
+| [fastai-api](https://github.com/skislyakow/fastai-api) | AI site generator REST API | FastAPI, Python 3.13 |
+
+Also: **ferma** (Telegram/VK channel automation), **support-bot** (Dialogflow support bot), **Devman-monitor** (systemd watchdog) — see [all repositories](https://github.com/skislyakow?tab=repositories).
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
+
+### 🗄️ SelfStorage — storage rental with online payments
+> Django service: pick a warehouse and a box, pay online, get a QR code for the door.
+
+- 🧭 **Multi-step checkout** — server-side validation on every step, promo codes and price calculation.
+- 💳 **YooKassa integration** — payment redirect, `return_url` handling, webhook-driven status updates.
+- 🔑 **Access & lifecycle** — QR door codes, in-app notification feed, reminder emails (30/14/7/3 days before the end, plus overdue).
+- 📊 **Owner dashboard** — occupancy, orders and revenue; CI gate with ruff + mypy.
+
+🔗 [github.com/skislyakow/SelfStorage](https://github.com/skislyakow/SelfStorage) · [live demo](https://selfstorage.kislyakov.pro)
 
 ### 🧠 quiz-bot — multi-platform quiz bot
 > Quiz bot for Telegram & VK on a base of ~300k questions.
