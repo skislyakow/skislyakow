@@ -172,7 +172,7 @@ Also: **ferma** (Telegram/VK channel automation), **support-bot** (Dialogflow su
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/skislyakow/SelfStorage/pull/21) in [skislyakow/SelfStorage](https://github.com/skislyakow/SelfStorage)
+1. ❌ Closed PR [#2](https://github.com/skislyakow/BakeCake/pull/2) in [skislyakow/BakeCake](https://github.com/skislyakow/BakeCake)
 2. 💪 Opened PR [#21](https://github.com/skislyakow/SelfStorage/pull/21) in [skislyakow/SelfStorage](https://github.com/skislyakow/SelfStorage)
 <!--END_SECTION:activity-->
 
