@@ -1,103 +1,73 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Fullstack+Developer;Django+%7C+DRF+%7C+FastAPI+%7C+PostgreSQL+%7C+React+%7C+Strapi;Telegram+%26+VK+Bots+%7C+aiogram+%7C+vkbottle;Automation+%7C+CV+%7C+LLMs+%7C+CI%2FCD" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Backend+%2F+Full-Stack+Developer;Django+%7C+DRF+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis;Telegram+%26+VK+Bots+%7C+aiogram+%7C+CI%2FCD" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=Python+Backend+%2F+Full-Stack+Developer;Django+%7C+DRF+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis;Telegram+%26+VK+Bots+%7C+aiogram+%7C+CI%2FCD" alt="Python Backend / Full-Stack Developer" />
+  </picture>
+
+  <h2>Python Backend / Full-Stack Developer</h2>
+
+  <a href="https://kislyakov.pro/"><img src="https://img.shields.io/badge/Portfolio-kislyakov.pro-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://t.me/kislyakow"><img src="https://img.shields.io/badge/Telegram-%40kislyakow-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://vk.com/skislyakov84"><img src="https://img.shields.io/badge/VK-skislyakov84-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
+  <a href="mailto:s.kislyakov84@gmail.com"><img src="https://img.shields.io/badge/Email-s.kislyakov84%40gmail.com-6F42C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
 ## About Me
 
-- 🔭 Currently working at **EFKO**
-- 🧱 Full-stack web apps: **Django · DRF · FastAPI · PostgreSQL · Redis · Docker · SQLAlchemy**
-- 💳 Real product flows: **YooKassa payments · QR access · SMS auth · PDF generation · headless CMS (Strapi)**
-- 🤖 Telegram & VK bots (aiogram, vkbottle, python-telegram-bot), **Dialogflow NLP**, automation, 300k-question quiz bot, CV (OpenCV/Tesseract), LLMs
-- 🧪 Engineering habits: **pytest, ruff, mypy, pre-commit, GitHub Actions CI**
-- 📦 Open-source author: Python SDKs & dev tooling (Pydantic, httpx)
-- 📍 Based in **Ostrogozhsk, Russia**
-- 💼 **Open to work / collaboration**
-- 🌐 [Portfolio](https://kislyakov.pro/) · [Telegram](https://t.me/kislyakow) · [VK](https://vk.com/skislyakov84) · ✉️ s.kislyakov84@gmail.com
+- 👋 I design and ship Python web services and bots — from data model and API to CI/CD and production deployment.
+- 🔭 Currently working at **EFKO**.
+- 📍 Based in **Ostrogozhsk, Russia** — open to remote.
+- 💼 **Open to work / collaboration** — the fastest way to reach me is [Telegram](https://t.me/kislyakow).
 
 ---
 
 ## Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Core** — the tools I'm ready to discuss in depth at a technical interview:
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)
+
+</div>
+
+**Also used** in day-to-day work and projects:
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Sanic](https://img.shields.io/badge/Sanic-FF6F00?style=flat-square&logo=sanic&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![httpx](https://img.shields.io/badge/httpx-005571?style=flat-square&logo=python&logoColor=white)
-![requests](https://img.shields.io/badge/requests-2CA5E0?style=flat-square&logo=python&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
-![YooKassa](https://img.shields.io/badge/YooKassa-00A2FF?style=flat-square&logoColor=white)
-
-### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Parcel](https://img.shields.io/badge/Parcel-F5BF4B?style=flat-square&logo=parcel&logoColor=black)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-009688?style=flat-square&logo=alembic&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Bots & Automation
-![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![Telethon](https://img.shields.io/badge/Telethon-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![python-telegram-bot](https://img.shields.io/badge/PTB-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![VK API](https://img.shields.io/badge/VK_API-0077FF?style=flat-square&logo=vk&logoColor=white)
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=googlecloud&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Tesseract](https://img.shields.io/badge/Tesseract-49B36B?style=flat-square&logo=tesseract&logoColor=white)
-![vkbottle](https://img.shields.io/badge/vkbottle-0077FF?style=flat-square&logo=vk&logoColor=white)
-![pymorphy3](https://img.shields.io/badge/pymorphy3-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-009688?style=flat-square&logo=uvicorn&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat-square&logo=python&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
-![pre-commit](https://img.shields.io/badge/pre--commit-FAB040?style=flat-square&logo=precommit&logoColor=black)
 
 ---
 
 ## Selected Projects
 
+The two flagship projects are broken down below; here are the rest.
+
 | Project | Description | Stack |
 |---|---|---|
-| [SelfStorage](https://github.com/skislyakow/SelfStorage) | Storage-box rental: step-by-step checkout, YooKassa payments, QR door access, owner dashboard · [demo](https://selfstorage.kislyakov.pro) | Django, Bootstrap, SQLite, YooKassa, CI |
 | [dossier](https://github.com/skislyakow/dossier) | Portfolio site with auto-generated PDF résumé and CI/CD deploy · [live](https://kislyakov.pro) | Django, WeasyPrint, Nginx, GitHub Actions |
-| [BeautyCity](https://github.com/skislyakow/BeautyCity) | Beauty-salon booking: server-side slot calculation, SMS login, YooKassa, staff stats · [demo](https://beauty.kislyakov.pro) | Django 6, DRF, jQuery, YooKassa |
-| [star-burger](https://github.com/skislyakow/star-burger) | Food-delivery storefront: React cart, manager dashboard, geocoding · [demo](https://star-burger.kislyakov.pro) | Django, DRF, React, Parcel, PostgreSQL, CI |
-| [FishShop](https://github.com/skislyakow/FishShop) | Telegram seafood shop backed by a headless Strapi CMS, Redis FSM | python-telegram-bot, Strapi 5, Redis, uv |
-| [quiz-bot](https://github.com/skislyakow/quiz-bot) | Multi-platform quiz bot on ~300k questions, Redis state, pymorphy3 answer matching | aiogram, vkbottle, Redis, pymorphy3 |
-| [opencode-py](https://github.com/skislyakow/opencode-py) | Python SDK for the Opencode AI coding agent (typed, streaming, async) | Pydantic, httpx, SDK |
-| [fastai-api](https://github.com/skislyakow/fastai-api) | AI site generator REST API | FastAPI, Python 3.13 |
+| [BeautyCity](https://github.com/skislyakow/BeautyCity) | Beauty-salon booking: server-side slot calculation, SMS login, YooKassa, staff stats · [demo](https://beauty.kislyakov.pro) | Django, DRF, YooKassa |
+| [star-burger](https://github.com/skislyakow/star-burger) | Food-delivery storefront: React cart, manager dashboard, geocoding · [demo](https://star-burger.kislyakov.pro) | Django, DRF, React, PostgreSQL, CI |
+| [FishShop](https://github.com/skislyakow/FishShop) | Telegram seafood shop backed by a headless Strapi CMS, Redis FSM | python-telegram-bot, Strapi, Redis |
+| [opencode-py](https://github.com/skislyakow/opencode-py) | Python SDK for the Opencode AI coding agent (typed, streaming, async) | Pydantic, httpx |
 
-Also: **ferma** (Telegram/VK channel automation), **support-bot** (Dialogflow support bot), **Devman-monitor** (systemd watchdog) — see [all repositories](https://github.com/skislyakow?tab=repositories).
+Also: **fastai-api** (AI site generator REST API), **ferma** (Telegram/VK channel automation), **support-bot** (Dialogflow support bot), **Devman-monitor** (systemd watchdog) — see [all repositories](https://github.com/skislyakow?tab=repositories).
 
 ---
 
@@ -106,8 +76,9 @@ Also: **ferma** (Telegram/VK channel automation), **support-bot** (Dialogflow su
 ### 🗄️ SelfStorage — storage rental with online payments
 > Django service: pick a warehouse and a box, pay online, get a QR code for the door.
 
-- 🧭 **Multi-step checkout** — server-side validation on every step, promo codes and price calculation.
-- 💳 **YooKassa integration** — payment redirect, `return_url` handling, webhook-driven status updates.
+- 🧭 **Multi-step checkout** — `SessionWizardView` with server-side validation on every step, promo codes with date windows and per-month price calculation.
+- 💳 **Payments without duplicates** — one `Payment` per order via `get_or_create`; the webhook and the `return_url` both go through one idempotent `_mark_paid` guarded by status checks, so a repeated webhook never re-sends emails or regenerates the QR.
+- 🔒 **No double booking** — the box is re-checked as `free` on every step and set to `reserved` when the order is created.
 - 🔑 **Access & lifecycle** — QR door codes, in-app notification feed, reminder emails (30/14/7/3 days before the end, plus overdue).
 - 📊 **Owner dashboard** — occupancy, orders and revenue; CI gate with ruff + mypy.
 
@@ -145,39 +116,19 @@ Also: **ferma** (Telegram/VK channel automation), **support-bot** (Dialogflow su
 
 ---
 
-## GitHub Stats
+## 📊 GitHub at a glance
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/skislyakow?style=for-the-badge&label=Stars&color=58A6FF&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/followers/skislyakow?style=for-the-badge&label=Followers&color=58A6FF&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&color=58A6FF&labelColor=0D1117&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fskislyakow" />
-  <img src="https://img.shields.io/github/last-commit/skislyakow/skislyakow?style=for-the-badge&label=Updated&color=58A6FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/skislyakow?style=for-the-badge&label=Stars&color=1F6FEB" />
+  <img src="https://img.shields.io/github/followers/skislyakow?style=for-the-badge&label=Followers&color=1F6FEB" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&color=1F6FEB&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fskislyakow" />
+  <img src="https://img.shields.io/github/last-commit/skislyakow/skislyakow?style=for-the-badge&label=Updated&color=1F6FEB" />
+  <img src="https://komarev.com/ghpvc/?username=skislyakow&color=1F6FEB&style=for-the-badge&label=Profile+Views" />
 </div>
 
----
-
-## Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skislyakow&theme=github-dark&bg_color=0D1117&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
----
-
-## Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/skislyakow/skislyakow/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/skislyakow/BakeCake/pull/2) in [skislyakow/BakeCake](https://github.com/skislyakow/BakeCake)
-2. 💪 Opened PR [#21](https://github.com/skislyakow/SelfStorage/pull/21) in [skislyakow/SelfStorage](https://github.com/skislyakow/SelfStorage)
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=skislyakow&color=58A6FF&style=flat-square&label=Profile+Views" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skislyakow/skislyakow/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/skislyakow/skislyakow/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+  </picture>
+</p>
